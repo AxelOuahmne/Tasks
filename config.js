@@ -1,0 +1,1 @@
+export const db ="mongodb+srv://axel:axeladmin@mern.cxryw8a.mongodb.net/tasks?retryWrites=true&w=majority";
